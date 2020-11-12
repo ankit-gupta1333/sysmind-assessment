@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Marvel Characters</string>
+    <string name="marvel_characters">Marvel Characters</string>
+    <string name="add_details_title">Add Details</string>
+    <string name="add_to_list">Add To List</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="please_enter_name">Please enter Name</string>
+    <string name="please_enter_description">Please enter Description</string>
+    <string name="added_to_list">Item added to list</string>
+    <string name="title_delete">Delete?</string>
+    <string name="message_delete">Are you sure you want to delete this item?</string>
+</resources>
